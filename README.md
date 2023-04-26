@@ -8,10 +8,10 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">  
+    <td valign="top" width="55%">  
       ✅ I'm currently studying software development.<br>✅ I'm looking to collaborate in the development of tools for users and developers.<br>✅ I'm currently learning React Js.
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="45%">
       <div align="right">  
         <a href="https://github.com/Roberto12541" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
