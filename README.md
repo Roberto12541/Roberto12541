@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://wallpaper.dog/large/20567153.jpg" align="center" height="250" width="" />
-</div>  
+<img src="https://wallpaper.dog/large/20567153.jpg" align="center" style="width: 100%" />
+</div> 
 
 
 ## <div align="center">Hi, I'm Roberto✌️</div>  
