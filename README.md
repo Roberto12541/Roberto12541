@@ -57,16 +57,12 @@
     <td valign="top" width="33%">  
       <div align="center">  
         <img src="https://github-readme-stats.vercel.app/api?username=Roberto12541&theme=prussian&show_icons=true&count_private=true&hide_border=true" align="center" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <div align="center">  
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roberto12541&theme=prussian&show_icons=true&count_private=true&hide_border=true" align="center" />
       </div>
     </td>
     <td valign="top" width="33%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto12541&theme=prussian&show_icons=true&count_private=true&hide_border=true" align="center" />
+        <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" align="center" />
       </div>
     </td>
   </tr>
@@ -90,7 +86,7 @@
     </td>
     <td valign="top" width="40%">
       <div align="center"> 
-        <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" align="center" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto12541&theme=prussian&show_icons=true&count_private=true&hide_border=true" align="center" />
       </div>
     </td>
   </tr>
