@@ -5,9 +5,9 @@
 # <div align="center">Hi, I'm Roberto Miranda! 👋</div>
 # 💫 About Me:
 
-## ✅ I'm currently studying software development.<br>
-## ✅ I'm looking to collaborate in the development of tools for users and developers.<br>
-## ✅ I'm currently learning React Js.
+✅ I'm currently studying software development.<br>
+✅ I'm looking to collaborate in the development of tools for users and developers.<br>
+✅ I'm currently learning React Js.
   
 <div align="center">
 <a href="https://github.com/Roberto12541" target="_blank">
