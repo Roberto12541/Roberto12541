@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/C4D16AQF8Dm_eYSjthw/profile-displaybackgroundimage-shrink_200_800/0/1625075943341?e=2147483647&v=beta&t=sWXBDEi6ow8LH5afaQIbECtkXmp14LyEEbpFszp5suM" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/C4D16AQEzrPXXQCSueQ/profile-displaybackgroundimage-shrink_200_800/0/1573348238009?e=2147483647&v=beta&t=Rv6Cqewe0STSgguPXp4wlRAD3RsqIufhFdxJ1ign0sY" align="center" style="width: 100%" />
 </div>  
   
 # <div align="center">Hi, I'm Roberto Miranda! 👋</div>
