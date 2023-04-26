@@ -8,7 +8,9 @@
 ✅ I'm currently studying software development.<br>
 ✅ I'm looking to collaborate in the development of tools for users and developers.<br>
 ✅ I'm currently learning React Js.
-  
+
+<br/>  
+ 
 <div align="center">
 <a href="https://github.com/Roberto12541" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -66,8 +68,6 @@
     </td>
   </tr>
 </table>  
-
-<br/>  
 
 ## 🏆 GitHub Trophies:
 <div align="center">
