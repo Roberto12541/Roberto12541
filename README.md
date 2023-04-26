@@ -2,39 +2,13 @@
 <img src="https://media.licdn.com/dms/image/C4D16AQEzrPXXQCSueQ/profile-displaybackgroundimage-shrink_200_800/0/1573348238009?e=2147483647&v=beta&t=Rv6Cqewe0STSgguPXp4wlRAD3RsqIufhFdxJ1ign0sY" align="center" style="width: 100%" />
 </div>  
   
-
-# <div align="center">Hi, I'm Roberto Miranda! 👋</div>  
+# <div align="center">Hi, I'm Roberto Miranda! 👋</div>
 # 💫 About Me:
 
-<div align="center">  
-  <table>
-    <tr>
-      <td valign="top" width="55%">  
-        ✅ I'm currently studying software development.<br>✅ I'm looking to collaborate in the development of tools for users and developers.<br>✅ I'm currently learning React Js.
-      </td>
-      <td valign="top" width="45%">
-        <div align="right">  
-          <a href="https://github.com/Roberto12541" target="_blank">
-          <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-          </a><br/>  
-          <a href="https://twitter.com/robertomir1254" target="_blank">
-          <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-          </a><br/>  
-          <a href="https://linkedin.com/in/roberto-adrián-miranda-meza/" target="_blank">
-          <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-          </a><br/>  
-          <a href="https://www.facebook.com/profile.php?id=100010329643690" target="_blank">
-          <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-          </a><br/>  
-          <a href="https://instagram.com/robertomiranda87/" target="_blank">
-          <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-          </a><br/>  
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>  
-
+## ✅ I'm currently studying software development.<br>
+## ✅ I'm looking to collaborate in the development of tools for users and developers.<br>
+## ✅ I'm currently learning React Js.
+  
 <div align="center">
 <a href="https://github.com/Roberto12541" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
