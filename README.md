@@ -52,52 +52,35 @@
 
 <br/>    
 
-## 📊  Github Stats:
-<table>
-  <tr>
-    <td valign="top" width="33%">  
-      <div align="center">  
-        <img src="https://github-readme-stats.vercel.app/api?username=Roberto12541&theme=prussian&show_icons=true&count_private=true&hide_border=true" align="center" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roberto12541&theme=prussian&show_icons=true&count_private=true&hide_border=true" align="center" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <div align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" align="center" />
-      </div>
-    </td>
-  </tr>
-</table>  
 
-## 🏆 GitHub Trophies:
+## 📊  Github Stats:
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">  
+        <div align="center">  
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roberto12541&theme=prussian&show_icons=true&count_private=true&hide_border=true" align="center" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <div align="center">
+          <img src="https://github-contributor-stats.vercel.app/api?username=Roberto12541&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" align="center" />
+        </div>
+      </td>
+    </tr>
+  </table> 
+</div> 
+
+## 🏆 GitHub Trophies: 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Roberto12541&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" align="center" />
 <div/>
   
 <br/>  
-  
-<table>
-  <tr>
-    <td valign="top" width="60%">  
-      <div align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Roberto12541&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" align="center" />
-      </div>
-    </td>
-    <td valign="top" width="40%">
-      <div align="center"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto12541&theme=prussian&show_icons=true&count_private=true&hide_border=true" align="center" />
-      </div>
-    </td>
-  </tr>
-</table> 
-  
-<br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Roberto12541&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=Roberto12541&&style=flat-square" align="center" />
 </div>  
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
