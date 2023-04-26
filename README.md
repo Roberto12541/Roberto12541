@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://wallpaper.dog/large/20567153.jpg" align="center" style="width: 100%" />
-</div> 
+<img src="https://media.licdn.com/dms/image/C4D16AQEzrPXXQCSueQ/profile-displaybackgroundimage-shrink_200_800/0/1573348238009?e=2147483647&v=beta&t=Rv6Cqewe0STSgguPXp4wlRAD3RsqIufhFdxJ1ign0sY" align="center" style="width: 100%" />
+</div>  
+  
 
-
-## <div align="center">Hi, I'm Roberto✌️</div>  
+## <div align="center">Hi, I'm Roberto Miranda👋</div>  
   
 
 ✅ I'm currently studying software development.  
